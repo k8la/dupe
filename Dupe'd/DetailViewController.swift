@@ -12,7 +12,7 @@ import UIKit
 
 class DetailViewController: UIViewController {
     
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -22,18 +22,17 @@ class DetailViewController: UIViewController {
     
     @IBAction func share(sender: AnyObject) {
         
-
         func screenshot() -> UIImage {
             
             UIGraphicsBeginImageContext(view.frame.size)
             view.layer.renderInContext(UIGraphicsGetCurrentContext())
             let image = UIGraphicsGetImageFromCurrentImageContext()
             UIGraphicsEndImageContext()
-    
             
             return image
             
         }
+
         
         
         let myMessage = "tiny dancer"
