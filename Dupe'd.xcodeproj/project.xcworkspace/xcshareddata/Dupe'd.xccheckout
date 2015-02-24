@@ -12,20 +12,24 @@
 	<dict>
 		<key>15DA59A63B779EE59A0207D5F1F6336C9527F239</key>
 		<string>https://github.com/k8la/JS.git</string>
+		<key>D3117128B11F13885E6C0B9F2FD5FD602E170EFD</key>
+		<string>https://github.com/k8la/dupe.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Dupe'd/Dupe'd.xcodeproj</string>
+	<string>Dupe'd.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>15DA59A63B779EE59A0207D5F1F6336C9527F239</key>
 		<string>../../..</string>
+		<key>D3117128B11F13885E6C0B9F2FD5FD602E170EFD</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/k8la/JS.git</string>
+	<string>https://github.com/k8la/dupe.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>15DA59A63B779EE59A0207D5F1F6336C9527F239</string>
+	<string>D3117128B11F13885E6C0B9F2FD5FD602E170EFD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>15DA59A63B779EE59A0207D5F1F6336C9527F239</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Code</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3117128B11F13885E6C0B9F2FD5FD602E170EFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dupe'd</string>
 		</dict>
 	</array>
 </dict>

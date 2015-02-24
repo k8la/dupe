@@ -9,11 +9,24 @@
 /* Begin PBXBuildFile section */
 		842A7F1E1A9BEC7D00ADD178 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F1D1A9BEC7D00ADD178 /* AppDelegate.swift */; };
 		842A7F211A9BEC7D00ADD178 /* Dupe_d.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F1F1A9BEC7D00ADD178 /* Dupe_d.xcdatamodeld */; };
-		842A7F231A9BEC7D00ADD178 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F221A9BEC7D00ADD178 /* ViewController.swift */; };
 		842A7F261A9BEC7D00ADD178 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F241A9BEC7D00ADD178 /* Main.storyboard */; };
 		842A7F281A9BEC7D00ADD178 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F271A9BEC7D00ADD178 /* Images.xcassets */; };
 		842A7F2B1A9BEC7D00ADD178 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F291A9BEC7D00ADD178 /* LaunchScreen.xib */; };
 		842A7F371A9BEC7D00ADD178 /* Dupe_dTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F361A9BEC7D00ADD178 /* Dupe_dTests.swift */; };
+		842A7F4A1A9C160900ADD178 /* lipstick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F401A9C160900ADD178 /* lipstick.jpg */; };
+		842A7F4B1A9C160900ADD178 /* mac_oxblood004-313x200.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F411A9C160900ADD178 /* mac_oxblood004-313x200.jpg */; };
+		842A7F4C1A9C160900ADD178 /* nars_digitalworld018-313x200.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F421A9C160900ADD178 /* nars_digitalworld018-313x200.jpg */; };
+		842A7F4D1A9C160900ADD178 /* NARS-Tolede-Lipstick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F431A9C160900ADD178 /* NARS-Tolede-Lipstick.jpg */; };
+		842A7F4E1A9C160900ADD178 /* Screenshot 2015-02-19 20.06.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F441A9C160900ADD178 /* Screenshot 2015-02-19 20.06.49.png */; };
+		842A7F4F1A9C160900ADD178 /* Screenshot 2015-02-19 20.07.29.png in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F451A9C160900ADD178 /* Screenshot 2015-02-19 20.07.29.png */; };
+		842A7F501A9C160900ADD178 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F461A9C160900ADD178 /* back.png */; };
+		842A7F511A9C160900ADD178 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F471A9C160900ADD178 /* share.png */; };
+		842A7F521A9C160900ADD178 /* tumblr_lr15ag8kn61qmu28ko1_500[1].jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F481A9C160900ADD178 /* tumblr_lr15ag8kn61qmu28ko1_500[1].jpg */; };
+		842A7F531A9C160900ADD178 /* orangeLabel.png in Resources */ = {isa = PBXBuildFile; fileRef = 842A7F491A9C160900ADD178 /* orangeLabel.png */; };
+		842A7F551A9C165C00ADD178 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F541A9C165C00ADD178 /* DetailViewController.swift */; };
+		842A7F571A9C16B700ADD178 /* ResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F561A9C16B700ADD178 /* ResultsTableViewController.swift */; };
+		842A7F591A9C177700ADD178 /* PrototypeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F581A9C177700ADD178 /* PrototypeTableViewCell.swift */; };
+		842A7F5B1A9C1ED000ADD178 /* Dupe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A7F5A1A9C1ED000ADD178 /* Dupe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,13 +44,26 @@
 		842A7F1C1A9BEC7D00ADD178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		842A7F1D1A9BEC7D00ADD178 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		842A7F201A9BEC7D00ADD178 /* Dupe_d.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Dupe_d.xcdatamodel; sourceTree = "<group>"; };
-		842A7F221A9BEC7D00ADD178 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		842A7F251A9BEC7D00ADD178 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		842A7F271A9BEC7D00ADD178 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		842A7F2A1A9BEC7D00ADD178 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		842A7F301A9BEC7D00ADD178 /* Dupe'dTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dupe'dTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		842A7F351A9BEC7D00ADD178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		842A7F361A9BEC7D00ADD178 /* Dupe_dTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dupe_dTests.swift; sourceTree = "<group>"; };
+		842A7F401A9C160900ADD178 /* lipstick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lipstick.jpg; path = ../../Desktop/lipstick.jpg; sourceTree = "<group>"; };
+		842A7F411A9C160900ADD178 /* mac_oxblood004-313x200.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "mac_oxblood004-313x200.jpg"; path = "../../Desktop/mac_oxblood004-313x200.jpg"; sourceTree = "<group>"; };
+		842A7F421A9C160900ADD178 /* nars_digitalworld018-313x200.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "nars_digitalworld018-313x200.jpg"; path = "../../Desktop/nars_digitalworld018-313x200.jpg"; sourceTree = "<group>"; };
+		842A7F431A9C160900ADD178 /* NARS-Tolede-Lipstick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "NARS-Tolede-Lipstick.jpg"; path = "../../Desktop/NARS-Tolede-Lipstick.jpg"; sourceTree = "<group>"; };
+		842A7F441A9C160900ADD178 /* Screenshot 2015-02-19 20.06.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2015-02-19 20.06.49.png"; path = "../../Desktop/Screenshot 2015-02-19 20.06.49.png"; sourceTree = "<group>"; };
+		842A7F451A9C160900ADD178 /* Screenshot 2015-02-19 20.07.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2015-02-19 20.07.29.png"; path = "../../Desktop/Screenshot 2015-02-19 20.07.29.png"; sourceTree = "<group>"; };
+		842A7F461A9C160900ADD178 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = ../../Desktop/back.png; sourceTree = "<group>"; };
+		842A7F471A9C160900ADD178 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = share.png; path = ../../Desktop/share.png; sourceTree = "<group>"; };
+		842A7F481A9C160900ADD178 /* tumblr_lr15ag8kn61qmu28ko1_500[1].jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "tumblr_lr15ag8kn61qmu28ko1_500[1].jpg"; path = "../../Desktop/tumblr_lr15ag8kn61qmu28ko1_500[1].jpg"; sourceTree = "<group>"; };
+		842A7F491A9C160900ADD178 /* orangeLabel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = orangeLabel.png; path = ../../Desktop/orangeLabel.png; sourceTree = "<group>"; };
+		842A7F541A9C165C00ADD178 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		842A7F561A9C16B700ADD178 /* ResultsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultsTableViewController.swift; sourceTree = "<group>"; };
+		842A7F581A9C177700ADD178 /* PrototypeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrototypeTableViewCell.swift; sourceTree = "<group>"; };
+		842A7F5A1A9C1ED000ADD178 /* Dupe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dupe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +90,16 @@
 				842A7F1A1A9BEC7D00ADD178 /* Dupe'd */,
 				842A7F331A9BEC7D00ADD178 /* Dupe'dTests */,
 				842A7F191A9BEC7D00ADD178 /* Products */,
+				842A7F401A9C160900ADD178 /* lipstick.jpg */,
+				842A7F411A9C160900ADD178 /* mac_oxblood004-313x200.jpg */,
+				842A7F421A9C160900ADD178 /* nars_digitalworld018-313x200.jpg */,
+				842A7F431A9C160900ADD178 /* NARS-Tolede-Lipstick.jpg */,
+				842A7F441A9C160900ADD178 /* Screenshot 2015-02-19 20.06.49.png */,
+				842A7F451A9C160900ADD178 /* Screenshot 2015-02-19 20.07.29.png */,
+				842A7F461A9C160900ADD178 /* back.png */,
+				842A7F471A9C160900ADD178 /* share.png */,
+				842A7F481A9C160900ADD178 /* tumblr_lr15ag8kn61qmu28ko1_500[1].jpg */,
+				842A7F491A9C160900ADD178 /* orangeLabel.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,9 +115,12 @@
 		842A7F1A1A9BEC7D00ADD178 /* Dupe'd */ = {
 			isa = PBXGroup;
 			children = (
-				842A7F1D1A9BEC7D00ADD178 /* AppDelegate.swift */,
-				842A7F221A9BEC7D00ADD178 /* ViewController.swift */,
 				842A7F241A9BEC7D00ADD178 /* Main.storyboard */,
+				842A7F561A9C16B700ADD178 /* ResultsTableViewController.swift */,
+				842A7F541A9C165C00ADD178 /* DetailViewController.swift */,
+				842A7F1D1A9BEC7D00ADD178 /* AppDelegate.swift */,
+				842A7F5A1A9C1ED000ADD178 /* Dupe.swift */,
+				842A7F581A9C177700ADD178 /* PrototypeTableViewCell.swift */,
 				842A7F271A9BEC7D00ADD178 /* Images.xcassets */,
 				842A7F291A9BEC7D00ADD178 /* LaunchScreen.xib */,
 				842A7F1F1A9BEC7D00ADD178 /* Dupe_d.xcdatamodeld */,
@@ -195,9 +234,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				842A7F4C1A9C160900ADD178 /* nars_digitalworld018-313x200.jpg in Resources */,
+				842A7F531A9C160900ADD178 /* orangeLabel.png in Resources */,
+				842A7F4B1A9C160900ADD178 /* mac_oxblood004-313x200.jpg in Resources */,
+				842A7F4E1A9C160900ADD178 /* Screenshot 2015-02-19 20.06.49.png in Resources */,
 				842A7F261A9BEC7D00ADD178 /* Main.storyboard in Resources */,
+				842A7F511A9C160900ADD178 /* share.png in Resources */,
+				842A7F4D1A9C160900ADD178 /* NARS-Tolede-Lipstick.jpg in Resources */,
 				842A7F2B1A9BEC7D00ADD178 /* LaunchScreen.xib in Resources */,
+				842A7F501A9C160900ADD178 /* back.png in Resources */,
+				842A7F4A1A9C160900ADD178 /* lipstick.jpg in Resources */,
 				842A7F281A9BEC7D00ADD178 /* Images.xcassets in Resources */,
+				842A7F521A9C160900ADD178 /* tumblr_lr15ag8kn61qmu28ko1_500[1].jpg in Resources */,
+				842A7F4F1A9C160900ADD178 /* Screenshot 2015-02-19 20.07.29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,9 +264,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				842A7F231A9BEC7D00ADD178 /* ViewController.swift in Sources */,
+				842A7F571A9C16B700ADD178 /* ResultsTableViewController.swift in Sources */,
+				842A7F5B1A9C1ED000ADD178 /* Dupe.swift in Sources */,
+				842A7F551A9C165C00ADD178 /* DetailViewController.swift in Sources */,
 				842A7F211A9BEC7D00ADD178 /* Dupe_d.xcdatamodeld in Sources */,
 				842A7F1E1A9BEC7D00ADD178 /* AppDelegate.swift in Sources */,
+				842A7F591A9C177700ADD178 /* PrototypeTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,8 +395,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Dupe'd/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -353,8 +407,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Dupe'd/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
